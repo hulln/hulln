@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## 💫 About me:
-- 🌍 **Location**: Slovenia, currently studying in Zagreb
+- 🌍 **Location**: Slovenia; currently studying in Zagreb, Croatia
 - 📚 **Field of study**: Digital Linguistics
 - 🗣️ **Language focus**: Slovene
 - 💻 **Skills I'm developing**: Programming, data analysis
