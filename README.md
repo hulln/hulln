@@ -7,4 +7,3 @@
 - 💻 **Skills I'm developing**: Programming, data analysis
 - 🤔 **I’m looking for help with**: Anything related to computer science
 - 📫 **How to reach me**: [nh23084@student.uni-lj.si](mailto:nh23084@student.uni-lj.si), [nhull@m.ffzg.hr](mailto:nhull@m.ffzg.hr)
-- 😄 **Pronouns**: N/A
